@@ -1,5 +1,11 @@
 # @astrojs/node
 
+## 9.0.0-alpha.2
+
+### Major Changes
+
+- [#375](https://github.com/withastro/adapters/pull/375) [`e7881f7`](https://github.com/withastro/adapters/commit/e7881f7928c6ca62d43c763033f9ed065a907f3b) Thanks [@Princesseuh](https://github.com/Princesseuh)! - Updates internal code to works with Astro 5 changes to hybrid rendering. No changes are necessary to your project, apart from using Astro 5
+
 ## 9.0.0-alpha.1
 
 ### Major Changes
